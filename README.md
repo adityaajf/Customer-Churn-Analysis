@@ -1,20 +1,18 @@
 # Customer-Churn-Analysis
-Customer Churn Analysis
-This repository explores customer churn analysis techniques to identify patterns and predict customer attrition. By analyzing customer behavior and demographics, we aim to uncover key factors influencing churn and develop strategies to retain valuable customers.
+This repository focuses on analyzing bank customer churn using Power BI. By leveraging the powerful visualization and data modeling capabilities of Power BI, we aim to identify key factors influencing customer attrition and provide actionable insights for improving customer retention.
 
 Key features:
 
-Data preprocessing and cleaning
-Exploratory data analysis (EDA) to uncover insights
-Customer segmentation and profiling
-Churn prediction modeling (e.g., logistic regression, survival analysis, machine learning)
-Model evaluation and performance metrics
-Actionable recommendations based on findings
-Potential applications:
+Comprehensive data exploration and cleaning
+In-depth customer segmentation and profiling
+Interactive visualizations to uncover trends and patterns
+Churn prediction modeling and evaluation within Power BI
+Actionable recommendations for targeted customer retention
+Key findings:
+[Briefly summarize your key findings, e.g., age, product usage, and account balance impact churn]
 
-Identify at-risk customers for targeted retention efforts
-Optimize pricing strategies and product offerings
-Improve customer support and service
-Enhance customer onboarding and engagement
+Visualization highlights:
+[Mention specific visualizations that effectively communicate your findings, e.g., churn rate by customer segment, customer journey, or predictive model performance]
 
-Technologies used is PowerBi
+Technologies used:
+Power BI
